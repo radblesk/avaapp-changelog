@@ -1,0 +1,52 @@
+[
+  {
+    "version": "1.0",
+    "build": 10,
+    "file": "1.0-10.md"
+  },
+  {
+    "version": "1.0",
+    "build": 9,
+    "file": "1.0-9.md"
+  },
+  {
+    "version": "1.0",
+    "build": 8,
+    "file": "1.0-8.md"
+  },
+  {
+    "version": "1.0",
+    "build": 7,
+    "file": "1.0-7.md"
+  },
+  {
+    "version": "1.0",
+    "build": 6,
+    "file": "1.0-6.md"
+  },
+  {
+    "version": "1.0",
+    "build": 5,
+    "file": "1.0-5.md"
+  },
+  {
+    "version": "1.0",
+    "build": 4,
+    "file": "1.0-4.md"
+  },
+  {
+    "version": "1.0",
+    "build": 3,
+    "file": "1.0-3.md"
+  },
+  {
+    "version": "1.0",
+    "build": 2,
+    "file": "1.0-2.md"
+  },
+  {
+    "version": "1.0",
+    "build": 1,
+    "file": "1.0-1.md"
+  }
+]
