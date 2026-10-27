@@ -1,6 +1,11 @@
 [
   {
     "version": "1.0",
+    "build": 11,
+    "file": "1.0-11.md"
+  },
+  {
+    "version": "1.0",
     "build": 10,
     "file": "1.0-10.md"
   },
